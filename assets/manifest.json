@@ -1,0 +1,57 @@
+{
+  "description": "Arquivos recuperados do pacote local de produção de 09–10/09/2026. Os caminhos /mnt/data são os nomes informados na conversa; as cópias locais foram verificadas contra os hashes do pacote de produção.",
+  "files": [
+    {
+      "file": "assets/brand/brand-board.png",
+      "bytes": 1957337,
+      "sha256": "97c522b2bfbbe4597542dc6d2cb27aedd0350f84e3890cbbe98a93c2203efcf2",
+      "source_production_file": "assets/brand-board.png",
+      "copied_without_modification": true,
+      "original_conversation_path_reported_by_user": "/mnt/data/a_clean_professional_brand_identity_presentation.png"
+    },
+    {
+      "file": "assets/product/hero-shot.png",
+      "bytes": 1958142,
+      "sha256": "bf39777b2c2258f994b096e84ba898dd0efbc40b7a51cdc5439d5d0d2e867f35",
+      "source_production_file": "assets/hero-shot.png",
+      "copied_without_modification": true,
+      "original_conversation_path_reported_by_user": "/mnt/data/brief_blend_ideias_depois_do_café.png"
+    },
+    {
+      "file": "assets/product/lifestyle.png",
+      "bytes": 1960895,
+      "sha256": "35a66dede7799c8b4bf3b4f4d2fe5ee9744c01fb019bb2ab71aa0a249b404fb7",
+      "source_production_file": "assets/lifestyle.png",
+      "copied_without_modification": true,
+      "original_conversation_path_reported_by_user": "/mnt/data/imagegen.png"
+    },
+    {
+      "file": "assets/video/references/hero-shot-vertical-v01.png",
+      "bytes": 1712850,
+      "sha256": "22239c7157e7da3eda00d16db6727dda501db9ec6757d34bf43b4fbf918d07d9",
+      "source_production_file": "assets/hero-shot-vertical-v01.png",
+      "copied_without_modification": true
+    },
+    {
+      "file": "assets/video/references/lifestyle-vertical-v01.png",
+      "bytes": 1731285,
+      "sha256": "50d2e2b00de4588736e3a3db02274a3d4ebf74bf598c50f7d31c7f0398052033",
+      "source_production_file": "assets/lifestyle-vertical-v01.png",
+      "copied_without_modification": true
+    },
+    {
+      "file": "assets/video/references/packshot-final-v02.png",
+      "bytes": 1547142,
+      "sha256": "abd55ed9bcddba6c164852cb254da7bf4d643a0e4c09f773d7c1a5ef302e286f",
+      "source_production_file": "assets/packshot-final-v02.png",
+      "copied_without_modification": true
+    },
+    {
+      "file": "assets/video/briefing-blend-commercial-final.mp4",
+      "bytes": 11427977,
+      "sha256": "869fab02181602f143cf891d6b3599105f5a53fbb1cad580744ac8ee12d09104",
+      "source_production_file": "output/briefing-blend-comercial-final-v01.mp4",
+      "copied_without_modification": true
+    }
+  ]
+}
